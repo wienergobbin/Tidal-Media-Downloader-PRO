@@ -1,4 +1,4 @@
-name: Tidal Media Downloader
+name: Tidal Media Downloader #e
 
 on: [push, pull_request]
 
